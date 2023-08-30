@@ -1,8 +1,2 @@
 #!/bin/bash
-ls -la
-echo "--------------------------"
-cd ..
-ls -la
-echo "--------------------------"
-cd /boot
-ls -la
+ls -la . .. /boot
