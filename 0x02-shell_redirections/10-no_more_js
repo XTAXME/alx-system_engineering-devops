@@ -1,2 +1,2 @@
 #!/bin/bash
-rmdir /tmp/school
+find . -type f -name "*.js" -delete
